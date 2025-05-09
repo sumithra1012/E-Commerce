@@ -1,0 +1,35 @@
+.home-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #ff00d4, #00c6ff);
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+    margin-bottom: 15px;
+  }
+  
+  .hero-section p {
+    font-size: 1.3rem;
+    margin-bottom: 25px;
+  }
+  
+  .shop-btn {
+    padding: 12px 24px;
+    background-color: white;
+    color: #0077ff;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .shop-btn:hover {
+    background-color: #e6e6e6;
+  }
